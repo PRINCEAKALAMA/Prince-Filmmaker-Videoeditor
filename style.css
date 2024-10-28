@@ -207,7 +207,7 @@ header {
   width: 70%;
 }
 .progress-line .javascript {
-  width: 70%;
+  width: 75%;
 }
 .progress-line .c {
   width: 80%;
@@ -253,7 +253,7 @@ header {
   content: "70%";
 }
 .progress-line .javascript::after {
-  content: "70%";
+  content: "75%";
 }
 .progress-line .sm::after {
   content: "70%";
@@ -352,19 +352,11 @@ header {
   margin-left: 1rem;
 }
 
-..video3,.video4{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0rem 0rem 0rem 0rem;
-  border: 5px solid white;
-}
 .iframe,.iframeP,.iframe2{
   border: 5px solid white;
 }
 .reels{
-  background-color: #13213d;
+  background-color: #13213d;padding-bottom: 6rem;
 }
 .reels-heading{
   width: 100%;
@@ -375,6 +367,7 @@ header {
   display: flex;
   justify-content: space-around;
 }
+
 
 .reel1,.reel2,.reel3,.reel4,.reel5,.reel6{
   border: 2px solid  white;

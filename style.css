@@ -369,7 +369,17 @@ header {
   display: flex;
   justify-content: space-around;
 }
-
+.reelrow3{
+  padding: 3rem 0rem 6rem 0rem;
+  display: flex;
+  
+}
+.reel7{
+  margin: 0rem 6.5vw 0rem 26vw;
+}
+.reel8{
+  margin: 0rem 0vw 0rem 6.5vw;
+}
 
 .reel1,.reel2,.reel3,.reel4,.reel5,.reel6{
   border: 2px solid  white;
